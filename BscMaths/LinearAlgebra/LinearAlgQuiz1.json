@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the determinant of a 2x2 matrix [[a, b], [c, d]]?",
+        "options": [
+            "ad - bc",
+            "ab + cd",
+            "a + d",
+            "b - c"
+        ],
+        "answer": "ad - bc"
+    },
+    {
+        "question": "What does it mean for a set of vectors to be linearly independent?",
+        "options": [
+            "No vector in the set can be written as a linear combination of the others",
+            "The vectors form a square matrix",
+            "The vectors have the same magnitude",
+            "The vectors are perpendicular"
+        ],
+        "answer": "No vector in the set can be written as a linear combination of the others"
+    },
+    {
+        "question": "What is the rank of a matrix?",
+        "options": [
+            "The maximum number of linearly independent rows or columns",
+            "The sum of all elements in the matrix",
+            "The number of rows minus the number of columns",
+            "The determinant of the matrix"
+        ],
+        "answer": "The maximum number of linearly independent rows or columns"
+    },
+    {
+        "question": "What is the eigenvalue of a matrix?",
+        "options": [
+            "A scalar λ such that there exists a vector v where Av = λv",
+            "A scalar that makes the determinant zero",
+            "The trace of the matrix",
+            "The sum of diagonal elements of the matrix"
+        ],
+        "answer": "A scalar λ such that there exists a vector v where Av = λv"
+    },
+    {
+        "question": "What is the trace of a square matrix?",
+        "options": [
+            "The sum of the diagonal elements",
+            "The product of the diagonal elements",
+            "The determinant of the matrix",
+            "The rank of the matrix"
+        ],
+        "answer": "The sum of the diagonal elements"
+    },
+    {
+        "question": "What does it mean for a matrix to be invertible?",
+        "options": [
+            "The determinant is non-zero",
+            "The determinant is zero",
+            "The matrix is symmetric",
+            "The matrix is diagonalizable"
+        ],
+        "answer": "The determinant is non-zero"
+    },
+    {
+        "question": "What is a basis of a vector space?",
+        "options": [
+            "A set of linearly independent vectors that span the vector space",
+            "A set of vectors that are all orthogonal",
+            "A set of vectors with the same magnitude",
+            "A set of vectors with integer components"
+        ],
+        "answer": "A set of linearly independent vectors that span the vector space"
+    },
+    {
+        "question": "What is the dot product of two vectors?",
+        "options": [
+            "The sum of the products of their corresponding components",
+            "The cross product of the vectors",
+            "The magnitude of their difference",
+            "The angle between the vectors"
+        ],
+        "answer": "The sum of the products of their corresponding components"
+    },
+    {
+        "question": "What is a diagonal matrix?",
+        "options": [
+            "A square matrix where all off-diagonal elements are zero",
+            "A matrix where all rows are identical",
+            "A matrix where all elements are zeros",
+            "A square matrix with ones on the diagonal"
+        ],
+        "answer": "A square matrix where all off-diagonal elements are zero"
+    },
+    {
+        "question": "What is the null space of a matrix?",
+        "options": [
+            "The set of all vectors that map to the zero vector under the matrix transformation",
+            "The set of all non-zero rows of the matrix",
+            "The set of all eigenvectors of the matrix",
+            "The set of all vectors perpendicular to the column space"
+        ],
+        "answer": "The set of all vectors that map to the zero vector under the matrix transformation"
+    }
+]
