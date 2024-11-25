@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the definition of a limit of a function at a point?",
+        "options": [
+            "A value the function approaches as the input approaches a given point",
+            "The maximum value of the function in its domain",
+            "The value of the function at infinity",
+            "The slope of the tangent line to the graph of the function"
+        ],
+        "answer": "A value the function approaches as the input approaches a given point"
+    },
+    {
+        "question": "Which of the following is true about a continuous function?",
+        "options": [
+            "It has no breaks, jumps, or holes in its graph",
+            "It is always differentiable",
+            "It is always integrable",
+            "It is always bounded"
+        ],
+        "answer": "It has no breaks, jumps, or holes in its graph"
+    },
+    {
+        "question": "What is the intermediate value theorem?",
+        "options": [
+            "If a function is continuous on a closed interval, it takes on every value between its maximum and minimum",
+            "If a function is continuous, it must have a maximum value",
+            "If a function is differentiable, it has a tangent line at every point",
+            "If a function is integrable, it can be approximated by Riemann sums"
+        ],
+        "answer": "If a function is continuous on a closed interval, it takes on every value between its maximum and minimum"
+    },
+    {
+        "question": "What is the formal definition of a derivative?",
+        "options": [
+            "The slope of the tangent line to a curve",
+            "The limit of the average rate of change as the interval approaches zero",
+            "The second derivative of a function",
+            "The integral of the function over an interval"
+        ],
+        "answer": "The limit of the average rate of change as the interval approaches zero"
+    },
+    {
+        "question": "What is the Bolzano-Weierstrass theorem?",
+        "options": [
+            "Every bounded sequence has a convergent subsequence",
+            "Every continuous function on a closed interval is bounded",
+            "Every differentiable function is continuous",
+            "Every sequence has a limit point"
+        ],
+        "answer": "Every bounded sequence has a convergent subsequence"
+    },
+    {
+        "question": "What does it mean for a series to converge?",
+        "options": [
+            "The series has a finite sum",
+            "The sequence of partial sums approaches a finite limit",
+            "The series does not diverge",
+            "The series has a bounded set of terms"
+        ],
+        "answer": "The sequence of partial sums approaches a finite limit"
+    },
+    {
+        "question": "What is a Cauchy sequence?",
+        "options": [
+            "A sequence where the terms get arbitrarily close to each other as the sequence progresses",
+            "A sequence that converges to a finite limit",
+            "A sequence that is bounded",
+            "A sequence with a monotonic behavior"
+        ],
+        "answer": "A sequence where the terms get arbitrarily close to each other as the sequence progresses"
+    },
+    {
+        "question": "What is a uniformly continuous function?",
+        "options": [
+            "A function where the rate of change is bounded",
+            "A function where the difference between values decreases uniformly as the points get closer",
+            "A function that is differentiable everywhere",
+            "A function that has a bounded domain"
+        ],
+        "answer": "A function where the difference between values decreases uniformly as the points get closer"
+    },
+    {
+        "question": "What is the completeness property of real numbers?",
+        "options": [
+            "Every non-empty set of real numbers that is bounded above has a supremum",
+            "Every sequence of real numbers has a limit",
+            "Every bounded sequence converges",
+            "Every real number can be expressed as a fraction"
+        ],
+        "answer": "Every non-empty set of real numbers that is bounded above has a supremum"
+    },
+    {
+        "question": "What is the mean value theorem?",
+        "options": [
+            "If a function is continuous and differentiable, there exists a point where the derivative equals the average rate of change over an interval",
+            "If a function is continuous, it must have a maximum value",
+            "If a function is differentiable, it has a tangent line at every point",
+            "If a function is integrable, it can be approximated by Riemann sums"
+        ],
+        "answer": "If a function is continuous and differentiable, there exists a point where the derivative equals the average rate of change over an interval"
+    }
+]
